@@ -1,0 +1,42 @@
+age,continuous,91
+class of worker,nominal,9
+detailed industry recode,nominal,52
+detailed occupation recode,nominal,47
+education,nominal,17
+wage per hour,continuous,1240
+enroll in edu inst last wk,nominal,3
+marital stat,nominal,7
+major industry code,nominal,24
+major occupation code,nominal,15
+race,nominal,5
+hispanic origin,nominal,10
+sex,nominal,2
+member of a labor union,nominal,3
+reason for unemployment,nominal,6
+full or part time employment stat,nominal,8
+capital gains,continuous,132
+capital losses,continuous,113
+dividends from stocks,continuous,1478
+tax filer stat,nominal,6
+region of previous residence,nominal,6
+state of previous residence,nominal,51
+detailed household and family stat,nominal,38
+detailed household summary in household,nominal,8
+instance weight,ignore,0
+migration code-change in msa,nominal,10
+migration code-change in reg,nominal,9
+migration code-move within reg,nominal,10
+live in this house 1 year ago,nominal,3
+migration prev res in sunbelt,nominal,4
+num persons worked for employer,continuous,7
+family members under 18,nominal,5
+country of birth father,nominal,43
+country of birth mother,nominal,43
+country of birth self,nominal,43
+citizenship,nominal,5
+own business or self employed,nominal,3
+fill inc questionnaire for veteran's admin,nominal,3
+veterans benefits,nominal,3
+weeks worked in year,continuous,53
+year,nominal,2
+income,continuous,100000
